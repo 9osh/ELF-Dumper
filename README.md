@@ -85,7 +85,7 @@ Example:
 
 ### 0) Under Normal Circumstances
 
-![image-20250829170303469](README_en.assets/image-20250829170303469.png)
+![image-20250829170303469](README.assets/image-20250829170303469.png)
 
 ### 1) dump-elf
 
